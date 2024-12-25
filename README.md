@@ -1,0 +1,1 @@
+This repository contains a bug report and solution for an issue encountered while using React Router Dom.  The bug involves unexpected component rendering on the initial page load, potentially due to route configuration or component lifecycle issues. The solution provides a corrected implementation to address this behavior and ensure the correct component renders as expected.
